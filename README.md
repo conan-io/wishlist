@@ -19,7 +19,8 @@ this repository "Issues", and look for it. Check it is not requested yet, even n
 4. If it is not requested, **open a new issue**. Use the library name and version, (e.g. `Boost/1.60`),
 followed by a very small description of the library as the issue title. 
 Briefly describe the purpose of the library in the comments, together with some link
-to URLs where to get the source code. If there exists a package in conan, say why it is not valid for
+to URLs where to get the source code, and very important, **the systems, OSs, compilers...** you intend to use
+while consuming those packages. If there exists a package in conan, say why it is not valid for
 your use case. A small description of your project, intended usage, or why you need
 it would be nice too. 3-4 lines is enough.
 5. If there exist an **open issue**, vote for it, +1 in the comments. Add your reasons or intended usage.
