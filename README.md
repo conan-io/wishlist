@@ -23,7 +23,8 @@ to URLs where to get the source code, and very important, **the systems, OSs, co
 while consuming those packages. If there exists a package in conan, say why it is not valid for
 your use case. A small description of your project, intended usage, or why you need
 it would be nice too. 3-4 lines is enough.
-5. If there exist an **open issue**, vote for it, +1 in the comments. Add your reasons or intended usage.
+5. If there exist an **open issue**, vote for it, +1 in the comments. Add your reasons or intended usage, and also
+your desired platforms, OS, compilers and versions you would like for this package.
 You can also downvote a library, in this case, it is compulsory to add an explanation. Alternative packages
 might be proposed (just cited), but please do not enter a discussion about it in the issue. Just open a new issue if you
 think the alternative package is better, and explain its merit in the comments.
