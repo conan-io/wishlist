@@ -9,14 +9,14 @@ main flow of information is via github issues, please read the following guide:
 
 If you would like that a conan package existed for certain project/library/code, follow these steps:
 
-1. A package is mainly defined by its name and version. Boost/1.59 is a different package from Boost/1.60.
+1. A package is mainly defined by its name and version. `Boost/1.59` is a different package from `Boost/1.60`.
 2. First check that a package doesn't already exist in conan.io. If it exists, but fails for your settings, try
 first to tell the package author, possibly submit an issue to that package specific repository,and try to
 collaborate with them to fix the problem. 
 3. If the package doesn't exist, or the existing package in conan will not support your settings (e.g. the
 original author cannot provide support for your OS due to lack of testing platform), go to 
 this repository "Issues", and look for it. Check it is not requested yet, even not in "closed" issues.
-4. If it is not requested, **open a new issue**. Use the library name and version, (e.g. Boost/1.60),
+4. If it is not requested, **open a new issue**. Use the library name and version, (e.g. `Boost/1.60`),
 followed by a very small description of the library as the issue title. 
 Briefly describe the purpose of the library in the comments, together with some link
 to URLs where to get the source code. If there exists a package in conan, say why it is not valid for
