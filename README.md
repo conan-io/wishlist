@@ -62,7 +62,7 @@ to the package creator repository for full bug reports and issue following.
 
 Please note this is a community effort, and this repository is just a hint to package creators.
 There are no guarantees that any request will be fulfilled, so
-please be polite and patience. Also, package creators are not responsible, not obliged to provide
+please be polite and patient. Also, package creators are not responsible, not obliged to provide
 any type of support, maintenance, training, or user help, and in general they will provide
 packages as-is, without any liability. 
 
