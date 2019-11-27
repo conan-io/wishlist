@@ -1,6 +1,6 @@
 # Conan Wishlist
 
-## DEPRECATION NOTICE: Go to [Conan Center Index instead](https://github.com/conan-io/conan-center-index)
+## DEPRECATION NOTICE: Use  [Conan Center Index repository](https://github.com/conan-io/conan-center-index) instead.
 
 This repository tracked user wishes for new Conan recipes prior to the start of the [Conan Center Index](https://github.com/conan-io/conan-center-index).
 
